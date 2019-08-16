@@ -5,7 +5,7 @@
         "Desire.EXE": "Touhou Black Label Modification for Ten Desires"
     },
     "servers": [
-        "https://mirrors.thpatch.net/Virtlux/"
+        "https://raw.githubusercontent.com/Virtlux/Gensokyo.EXE/master/"
     ],
     "title": "Gensokyo Executors"
 }
