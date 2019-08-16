@@ -8,6 +8,6 @@
     ],
     "update": true,
     "servers": [
-        "https://raw.githubusercontent.com/Virtlux/Gensokyo.EXE/master/"
+        "https://raw.githubusercontent.com/Virtlux/Gensokyo.EXE/master/THBL_01/"
     ]
 }
