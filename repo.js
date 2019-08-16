@@ -5,7 +5,7 @@
         "THBL_01": "Touhou Black Label Modification for Ten Desires"
     },
     "servers": [
-        "https://raw.githubusercontent.com/Virtlux/Gensokyo.EXE/master/"
+        ""https://raw.githubusercontent.com/Virtlux/Gensokyo.EXE/master/THBL_01/"
     ],
     "title": "Gensokyo Executors"
 }
