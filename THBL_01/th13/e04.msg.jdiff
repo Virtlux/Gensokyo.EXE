@@ -1,0 +1,112 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  >Marisa's house."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Bad ventilation, gloomy, and packed with things piled high."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "Marisa was nowhere to be seen."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "However, one could hear strange noises outside."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Marisa  >\"Toh! Hah!\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Marisa  >\"Whew, nothing beats morning training!\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "Explain this to me!"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "Why has Marisa been doing some strange dance all morning?"
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "The truth is, Marisa had heard a secret of Taoism from Seiga."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "What secret was that?"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "It was that of immortality."
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "Immortality was the ultimate goal of Taoists."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "She'd heard this from Kasen Ibara too, but seeing Miko and Mononobe,",
+                "firsthand examples of humans with immortality (breathed into them),",
+                "Marisa decided to become a Taoist!"
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Marisa  >\"Hooyah!"
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<l$> Um, I wonder if this is what Taoist training is supposed to be like?\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Marisa  >\"Well, I broke a good sweat."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$> Can't be far from immortality now!\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "Yes, achieving immortality through such training was surely impossible."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "But who knows?",
+                "Maybe getting up early and doing some exercise helped extend Marisa's lifespan a bit."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<c$Ending No.04 — Too bad she'll get tired of training soon.$>"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<c$This is a Parallel Ending! Congratulations!$>"
+            ]
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reimu  >The mausoleum where Miko had been slumbering."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Victory was somehow won, but not without severe damages."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Reimu  >\"What ARE those guys?! They're tough! Gensokyo's gonna be in serious trouble!",
+                "<l$> I have to get back quick and make sure they don't get too far...\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "Reimu hurried back to the shrine and devised a counter-measure."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "With this plan, she was certain she would not lose!"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "　"
+            ]
+        },
+        "5_1": {
+            "lines": [
+                "<c$Ending No.09 — Still lacking in training.$>"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<c$Try to beat the game without continuing!$>"
+            ]
+        }
+    }
+}

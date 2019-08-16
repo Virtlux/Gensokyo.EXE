@@ -1,0 +1,54 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  >The mausoleum where Miko had been slumbering."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Victory was somehow won, but not without severe damages."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Marisa  >\"That girl's just nuts."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> Got a whole different aura from anyone else I've ever met..."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> Gonna hafta run for now!\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "Fearful of Miko's party though not willing to admit it, Marisa fled home."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "Telling herself it was just a first try, she prepared for a rematch."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "　"
+            ]
+        },
+        "7_1": {
+            "lines": [
+                "<c$Ending No.10 — Remember the enemies' attacks and do your best.$>"
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<c$Try to beat the game without continuing!$>"
+            ]
+        }
+    }
+}

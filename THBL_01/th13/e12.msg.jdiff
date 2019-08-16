@@ -1,0 +1,54 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Youmu  >The mausoleum where Miko had been slumbering."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Victory was somehow won, but not without severe damages."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Youmu  >\"It didn't help that my enemy had nothing to do with spirits."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> Not exactly my kind of opponent."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> Maybe I should just stick to the garden...\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "Youmu sulked over her poor performance."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "But however much she tended to the garden, it wouldn't satisfy her."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "　　"
+            ]
+        },
+        "7_1": {
+            "lines": [
+                "<c$Ending No.12 — Well then, how about a rematch? $>"
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<c$Try to beat the game without continuing!$>"
+            ]
+        }
+    }
+}

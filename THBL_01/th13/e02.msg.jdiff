@@ -1,0 +1,158 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reimu  $Seiga  >The Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "The shrine that stands on the eastern border of Gensokyo."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "Now, it is no longer the sole shrine in Gensokyo."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Reimu  >\"Aaah, nothing to do today..."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> Why don't I eat something!? Yeah, that's what I'll do!\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> *scratch scratch*"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Reimu  >\"Hm, a noise coming from the wall?\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Seiga  >\"Hey.\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Reimu  >\"!?!?\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Seiga  >\"That fight back then was splendid.\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Reimu  >\"D-D-Don't make holes in other people's walls!\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Seiga  >\"Don't worry. Something like that is easily restored.\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Reimu  >\"The hole's gone... Wait, what? Was that sleight of hand?\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Seiga  >\"So, as to the reason that I have come here. I, Seiga Kaku,",
+                "<l$> would like to teach you the Tao.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Reimu  >\"Huh?\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Seiga  >\"Your power is truly splendid.",
+                "<l$> To think that you could even hold your own against Lady Toyosatomimi.\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Reimu  >\"I don't know anything about the Tao.\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Seiga  >\"What are you saying? The power you use is Taoism itself.\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Reimu  >\"Huh?\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Seiga  >\"Your yin-yang orbs, your talismans, your spirit world trance",
+                "<l$> and all sorts of other things use the power of Taoism, don't they?\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Reimu  >\"Is that right?\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Seiga  >\"That's right. Although in Japan, it might be known as ‘onmyoudou’,",
+                "<l$> instead...\""
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "Danger! Reimu is pursued by Seiga."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "What could this wicked hermit be planning?!"
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "In truth, she is simply genuinely entranced by Reimu's power."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "This wicked hermit has a habit of being captivated by the power of strong humans."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "This is also the reason that she caught hold of Miko and told her about Taoism."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "　"
+            ]
+        },
+        "27_1": {
+            "lines": [
+                "<c$Ending No.02 — Reimu's techniques really aren't Shinto, after all.$>"
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<c$This is a Parallel Ending! Congratulations!$>"
+            ]
+        }
+    }
+}

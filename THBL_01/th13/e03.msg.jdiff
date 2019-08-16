@@ -1,0 +1,151 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  $Miko  >The Great Mausoleum."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "The place where small divine spirits (= desires) had gathered",
+                "to have Miko grant their wishes."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Marisa  >\"So, whaddya want granted?"
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> Wha? ‘I want something tasty?’ Eat some shrooms."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> ‘My hips ache?’ I know a good massage place.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Marisa  >\"Man, how do you understand all these guys like this?\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Miko  >\"I told you, there's no point if you can't listen to ten desires at once.\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Marisa  >\"Ten at once... eh?\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Marisa  >\"Thirsty... sleepy... with... dreams... power..."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<l$> Geez, stop talking over one another!\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Miko  >\"People's thoughts change every moment."
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$> If you try to listen to them one by one, the result will differ."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$> So you must listen to them all together, or you will not see the truth.\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Marisa  >\"You're asking the impossible, lady!\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Miko  >\"Well, I happen to think it's rather easy.\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Marisa  >\"You ain't exactly normal, are you...\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "The divine spirits naturally gathered upon Miko's resurrection."
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "The little desires of humans that reflected their true nature."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "That was what the divine spirits really were."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "The little spirits gathered in the mausoleum were too many for Marisa to hold."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "So she lost interest in the mausoleum and returned to her ordinary life."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "So what happened to the divine spirits then?"
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "They vanished into thin air once Miko appeared in the human village."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "Being able to listen to and understand ten people at once,",
+                "Miko was the talk of the town."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "Marisa didn't know where the divine spirits had headed, but she didn't care anymore."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "Perhaps in a way, those little spirits had attracted Miko, the truly divine spirit."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "　"
+            ]
+        },
+        "26_1": {
+            "lines": [
+                "<c$Ending No.03 — A moment born from varying desires and faith.$>"
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<c$Congratulations, all clear! Just as I'd expected!$>"
+            ]
+        }
+    }
+}

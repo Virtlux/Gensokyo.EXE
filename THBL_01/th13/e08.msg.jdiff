@@ -1,0 +1,124 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Yuyuko  $Youmu  >The Netherworld."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "One of the worlds to which spirits go after death."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "Outrageously spacious. Nothing if not spacious."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Yuyuko  >\"What's the deal here?\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Youmu  >\"Lady Yuyuko, I've realized something.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Yuyuko  >\"Oh, that you haven't been tending to the garden? Just now, really?\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Youmu  >\"...Well, uh, um. No, not that.\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Yuyuko  >\"Then what?\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Youmu  >\"The fact that, in truth, I'm a hermit.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Yuyuko  >\"Eh?\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Youmu  >\"This battle helped me understand. I was a hermit all along.\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Yuyuko  >\"Oh my, what to do... The spring weather must be affecting Youmu.\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Youmu  >\"I'm not lying."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$> As proof, I shall fly into the sky.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Yuyuko  >\"Oh yes, you've surprised even I.\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "Thanks to brainwashing herself through repetition (?),",
+                "Youmu had convinced herself that she was a hermit."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "Of course, she wasn't a hermit, nor was it the weather;",
+                "it appeared to be a temporary fever."
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "Yuyuko found this amusing, and so she went",
+                "all across Gensokyo letting people know."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "She'd go there and say \"Look, my Youmu's a hermit!\"",
+                "She'd go here and say \"Come, see the power of the supernatural!\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "After Youmu returned to normal,",
+                "thinking back on the event made her more embarrassed than she could bear."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Once again, she supposed, Yuyuko had the upper hand."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<c$Ending No.08 — You're terrible, Lady Yuyuko.$>"
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<c$This is a Parallel Ending! Congratulations!$>"
+            ]
+        }
+    }
+}

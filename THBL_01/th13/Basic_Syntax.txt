@@ -1,0 +1,100 @@
+Basic Syntax
+	Instruction
+		Description
+			Example
+	
+	(formless)
+		Pushes a variable to either the float or integer stack, depending on the type of variable used.
+			1.0f;		//Pushes a float with the value of 1.0 to the float stack.
+			6;			//Pushes an int with the value of 6 to the integer stack.
+			-6;
+			-34.355f;	//Negative values are valid.
+	[]
+		Pops a variable with the specified order from a stack to be used.
+			[-1]	//Pops the first variable from the integer stack.
+			[-2]	//Pops the second variable from the integer stack.
+			[-1.0f] //Pops the first variable from the float stack.
+			[-3.0f] //Pops the third variable from the float stack.
+			[-1.6f] //Invalid.
+	anim
+		Used as a preprocessor, imports ANM scripts.
+			anim{ "enemy.anm"; }
+			anim{ "enemy.anm"; "st06enm.anm"; }
+	ecli
+		Used as a preprocessor, includes ECL scripts.
+			ecli{ "default.ecl"; }
+			ecli{ "default.ecl"; "st06bs.ecl"; }
+	sub
+		Defines a subroutine. Parantheses cannot be omitted. Parameters are defined with only a space seperating them.
+			sub Something(){}
+			sub Something(A B C D E){}
+			sub Something(count graphic wait way){}
+	var
+		Defines local variables. Should be present at the start of all subroutines, but does not need to always create a variable.
+		Variables are defined in series, with only spaces seperating them.
+			var;
+			var A B C;
+	!
+		Use to create difficulty-specific blocks, blocks are only executed if the current difficulty matches with the label. 
+			E = easy, 
+			N = normal, 
+			H = hard, 
+			L = lunatic, 
+			O = overdrive, 
+			* = all difficulties, used as a reset flag
+				!E
+					60;
+				!N
+					40;
+				!HL
+					20;
+				!*
+					ins_23([-1]);
+	xx:
+		Where [xx] is an integer.
+		Time label, tells the engine to execute the following block of code once an [xx] amount of frames has passed after subroutine activation.
+			60:		//60 frames delay.
+			3:		//3 frames delay.
+			99999:	//99999 frames delay.
+			-30:	//Invalid.
+			20.41:	//Invalid.
+	xx:
+		Where xx is a string.
+		Label for jumps and gotos. Label names generated for decompiled ECL scripts are in "[Subroutine name]_[Unique numerical ID, probably their byte offsets]".
+			Boss1_at_239:
+			WhateverLabelThisIs:
+	$
+		Signifies an integer variable.
+			$A;			//Pushes an integer variable to top of the int stack.
+			$B = 89;	//Writes an integer to a variable.
+	%
+		Signifies a float variable.
+			%A;				//Pushes a float variable to top of the float stack.
+			%B = -28.12;	//Writes a float to a variable.
+	_SS
+		Passes an integer as an argument of a subroutine.
+	_ff
+		Passes a float as an argument of a subroutine.
+	_fS
+		Converts an integer to a float when passing an argument to a subroutine.
+	_Sf
+		Converts a float to an integer when passing an argument to a subroutine.
+	_S
+		Convert to an integer.
+			_S(6.0f);	//Converted to 6.	
+			_S(89.24f);	//Converted to 89.
+			_S(%A);		//A's value as an integer.
+	_f
+		Converts to a float.
+			_f(192);	//Converted to 192.0f.
+			_f($A);		//A's value as a float.
+	[-99xx]
+		A register that returns an int. An in-depth list is in an another section, albeit incomplete.
+			[-9903];
+			[9903];		//Invalid.
+			[-10000];	//Highest register.
+	[-99xx.0f]
+		A register that returns a float. An in-depth list is in an another section, albeit incomplete.
+			[-9998.0f];
+			[9938.0f];	//Invalid.
+	

@@ -1,0 +1,45 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Sanae  >The mausoleum where Miko had been slumbering."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Victory was somehow won, but not without severe damages."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Sanae  >\"My, Prince Shoutoku?!"
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> That's a bit more of an opponent than I can manage!\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Sanae feared her opponent and made a hasty retreat."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "But after having confirmed she had not been followed,",
+                "she felt the yearning for a rematch growing within her."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<c$Ending No.11 — She'll be waiting for a rematch anytime.$>"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<c$Try to beat the game without continuing!$>"
+            ]
+        }
+    }
+}

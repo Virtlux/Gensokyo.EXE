@@ -1,0 +1,211 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  $Reimu  $Miko  >The Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "The shrine that stands on the eastern border of Gensokyo."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "The few cherry blossoms that remained are sure to be scattered by a pleasant wind before long."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Marisa  >\"Hmm, all that happened? (While I was asleep.)\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Reimu  >\"They were pretty strong opponents, but it really didn't amount to much."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> They were behind the times, too.\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Marisa  >(\"Behind the times\" in Gensokyo, huh?)"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> \"So, what did they do after that?\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Reimu  >\"They said that being under the temple was improper",
+                "<l$> and relocated their base.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Marisa  >\"Oh, where to?",
+                "<l$> I kinda want to meet with those guys.\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Reimu  >\"They wouldn't tell me where they relocated to."
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$> I heard that they built a dojo somewhere suitable for a hermit, though.\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Marisa  >\"Somewhere suitable for a hermit? Where's that, a mountain?",
+                "<l$> (There's a hermit that lives on the mountain, after all.)\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Reimu  >\"I just told you, I don't know."
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<l$> Aah, maybe they'll come calling again...\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "A few days later at the Hakurei shrine."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "While Reimu was doing yard work as usual, Miko appeared there."
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Miko  >\"Heave-ho!\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Reimu  >\"Ohhh!\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Miko  >\"Ah, thank you for the other day.\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Reimu  >\"Ohhhh?!\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Miko  >\"Ahh, my apologies for being late to greet you after moving."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<l$> Please forgive my rude behavior with that fight before."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<l$> I had only just woken up, and my judgment was clouded.\""
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<r$Reimu  >\"Oh...\""
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<r$Miko  >\"You have... uh, you've got infinite potential within you."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<l$> As part of my apology for the other day, I was hoping to invite you to my house...\""
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<r$Reimu  >\"Oh?\""
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<r$Miko  >\"How does that sound?\""
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<r$Reimu  >\"Y-your house? Where is it, anyway?\""
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<r$Miko  >\"It's right where I'm standing. See?\""
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "<r$Reimu  >\"...What are you, an ant larva?!\""
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "Of course, Miko is not an ant larva."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "Miko, Futo, and the rest, because they found living beneath a temple that was",
+                "a hangout for youkai to be improper, built a dojo in a new place and moved there."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "This was what was called a pure land, which could be expanded infinitely",
+                "into any nook or cranny to form a new world for the hermits."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "Because of this, Miko's group was able",
+                "to move anywhere in an instant."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "Reimu looked into the dojo that she was invited to."
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "She couldn't help but feel that she had seen the buildings, tools, and small items",
+                "that were there somewhere else before. Was it on the Moon, or in the heavens...?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<c$Ending No.01 — Bugs aren't the only things that can live in cracks.$>"
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "<c$Congratulations, all clear! Just as I'd expected!$>"
+            ]
+        }
+    }
+}

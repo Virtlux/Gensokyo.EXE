@@ -1,0 +1,103 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "What's happened to this place? It has never been so aggressive before."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Oh, a Shrine Maiden?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Just in time. ",
+                "We're currently struggling with a small problem."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Your 'problem' almost killed me!",
+				"Calling it small is straight up lying!"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Can't you control your ghosts properly?",
+                "I thought they were under your commands."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Ah... You see, those are not my ghosts,",
+                "at least the ones that started the chaos."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Wait, does that mean that power",
+                "has affected you as well?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Well, I can't say it hasn't.",
+				"I somewhat started losing control over my ghosts because of it."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "But let's see how much stronger this power made me!!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Indeed...",
+                "This power is uncontrollably enhancing the power of danmaku."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "What was that?!",
+                "These patterns are about to kill someone!!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "It seems like someone is spreading this",
+                "curse to every living being."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Those spirits... I've seen them before for sure.",
+                "But never this powerful."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Are you suggesting that",
+                "the graveyard could be behind this?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "I doubt it, but you can always check it. Though..."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "If I were you, I would be less carefree this time.",
+				"That danmaku was lethal."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Understood."
+            ]
+        }
+    }
+}

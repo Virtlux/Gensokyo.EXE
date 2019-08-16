@@ -1,0 +1,207 @@
+{
+    "2": {
+        "34_0": {
+            "lines": [
+                "What do you want?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Ah, someone swinging swords around...",
+                "Oh, anybody'll do!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I saw this girl I've never",
+                "seen before keeping watch back there."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "But no matter how much I shoot her,",
+                "I always lose by time out..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "So could you do something about her?",
+                "Please!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Plead of help from a youkai?",
+                "How bizarre."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Heh heh heh!",
+                "But we'll have to test if you're tougher than me!"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Well, Lady Yuyuko told me to",
+                "go to the cemetery, but..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "(Although she may not have actually said it...)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Anyways, the spirits are really making a racket."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Dooon't come any closeeer!"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "This is no place for",
+                "the likes of you to enter!"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Ah, hello."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "...Are you already dead?",
+                "Maybe you're decayi..."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "|\tWe are \t,\tfighters\t,jiang shi",
+                "We are fighters, arisen to protect",
+                "this magnificent mausoleum."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Eh? Jia...?",
+                "Ah, jiang shi, I see."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Right, so knowing that, you should leave.",
+                "Or otherwise become one of our companions."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Companions...? Sorry to say,",
+                "but I'm actually in a similar state already."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "But to still be loitering around this world",
+                "because of a few lingering attachments..."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "I feel sorry for you."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "(Huh?",
+                "Something feels... off.)"
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "We aren't stuck in this world",
+                "because we have attachments!"
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "It is all so that she shall not be",
+                "trampled upon by the temple's inhabitants <i$again>!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Whaaaaat?!!",
+                "I'm dyiiiiing!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Yes, yes, we get it, you're already dead."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "A jiang shi with a charm stuck on her head...",
+                "That must mean there's a master controlling you."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Was there?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Of course, you also reeked of",
+                "the possibility of such earlier..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Eh? I stink?",
+                "But I take such good care of my skin!"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "(Sigh, zombie jokes...)"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Well anyways, I'll go search around for who's controlling you.",
+                "I'm sure they'll have clues for me."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "My... master??"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "What the..."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Wait, does that mean",
+                "that dreadful religious war is upon us once again?!"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "...Uh, who was that?"
+            ]
+        }
+    }
+}
