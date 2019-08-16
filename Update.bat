@@ -1,2 +1,2 @@
-C:\path\to\python.exe ..\scripts\repo_update.py
+C:\Users\PC\AppData\Local\Programs\Python\Python37-32\python.exe D:\Gry\Touhou\moddies\Gensokyo.EXE\repo_update.py
 pause
