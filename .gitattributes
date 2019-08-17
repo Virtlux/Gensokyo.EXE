@@ -34,3 +34,9 @@
 *.mp3 binary
 *.psd binary
 *.xcf binary
+
+*.rpy binary
+*.wav binary
+*.ver binary
+*.anm binary
+*.pdn binary
